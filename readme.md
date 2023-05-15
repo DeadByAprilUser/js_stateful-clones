@@ -36,7 +36,7 @@ transformStateWithClones(state, [
 ])
 ```
 
-must return the following array:
+must return the following array:s
 
 ```
 [
